@@ -1,5 +1,5 @@
 # SeleniumAutomation
-This project is writeen to create a universal tester or a load tester using Selenium. The input to the code are 2 files config.txt and an xml file
+This project is writen to create a universal tester or a load tester using Selenium. The input to the code are 2 files config.txt and an xml file
 config.txt has the
   1.URL of the web application
   2.xml file
