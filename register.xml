@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<register>
+	<TestCase id="100">
+		<name>dinkar</name>
+		<email>kad@dfg.com</email>
+		<password>111111</password>
+		<button>submit</button>
+
+	</TestCase>
+</register>

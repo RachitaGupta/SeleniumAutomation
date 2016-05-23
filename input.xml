@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<class>
+   <TestCase id="393">
+      <name>dinkar</name>
+      <email>kad</email>
+      <dropdown>dinkar</dropdown>
+      <textarea>85</textarea>
+      <button>submit</button>
+   </TestCase>
+   <TestCase id="493">
+      <name>Vaneet</name>
+      <email>Gupta</email>
+      <dropdown>vinni</dropdown>
+      <textarea>95</textarea>
+      <button>submit</button>
+     
+   </TestCase>
+   <TestCase id="593">
+      <name>jasvir</name>
+      <email>singn</email>
+      <dropdown>jazz</dropdown>
+      <textarea>90</textarea>
+      <button>submit</button>
+      
+   </TestCase>
+</class>

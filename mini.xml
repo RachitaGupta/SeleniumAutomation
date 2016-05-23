@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<mini>
+	<TestCase id="mini">
+		<name>dinkar</name>
+		<email>kad@dfg.com</email>
+		<dropdown>Option Two</dropdown>
+		<radio>Radio option 2</radio>
+		<button>submit</button>
+
+	</TestCase>
+</mini>
